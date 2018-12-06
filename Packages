@@ -1,0 +1,19 @@
+Package: com.stixzoor.glasklarthd
+Version: 5.60
+Architecture: iphoneos-arm
+Maintainer: STiXzoOR <neostixz@gmail.com>
+Depends: firmware (>=7.0), com.anemonetheming.anemone
+Conflicts: com.modmyi.glasklarthd, com.modmyi.glasklart2, com.planet-iphones.glasklart, at.dreamnet.glasklarthd
+Filename: ./debs/com.stixzoor.glasklarthd_5.60_iphoneos-arm.deb
+Size: 74294958
+MD5sum: 9f34a29f4d909ffbb643792989ef9c6f
+SHA1: 4c67f774382873ddb8bac1ad7bacb65b70cbc5fd
+SHA256: b5d813d9fac09d0f6de3d0642a6e1d31bf805cf8851739c035cd8bd72d9ecd1b
+Section: Themes
+Homepage: https://github.com/glasklart/hd
+Description: Rethought and remade for retina display.
+Author: Max Rudberg <max@maxrudberg.com>
+Depiction: https://stixzoor.github.io/depictions/?p=com.stixzoor.glasklarthd
+Name: Glasklart
+Sponsor: dreamnet <https://glasklarthd.dreamnet.at>
+
