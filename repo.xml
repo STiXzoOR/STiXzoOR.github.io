@@ -1,0 +1,19 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Send me an email</name>
+			<url>mailto:neostixz@gmail.com</url>
+			<iconclass>fa fa-envelope</iconclass>
+		</link>
+		<link>
+			<name>Find me on Twitter</name>
+			<url>https://www.twitter.com/STiXzoOR</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+	    	<name>Find me on Github</name>
+	    	<url>https://www.github.com/STiXzoOR</url>
+			<iconclass>fa fa-github</iconclass>
+	  	</link>
+	</footerlinks>
+</repo>

@@ -1,0 +1,75 @@
+<changelog>
+	<changes>
+		<version>5.60</version>
+		<change>
+			<![CDATA[
+				<ul>
+					<li>Latest version from Github: 01 Dec 2018.</li>
+				</ul>
+			]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8, @DerDoktor and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.59</version>
+		<change>
+			<![CDATA[
+				<ul>
+					<li>50 icons added.</li>
+					<li>4 icon updated.</li>
+				</ul>
+			]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8, @DerDoktor and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.58</version>
+		<change>
+			<![CDATA[
+				<ul>
+					<li>115 icons added.</li>
+					<li>41 icon updated.</li>
+				</ul>
+			]]>
+		</change>
+		<change>Thanks to @ivanov007, @@2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.57</version>
+		<change>
+			<![CDATA[
+				<ul>
+					<li>88 icons added.</li>
+					<li>16 icon updated.</li>
+				</ul>
+			]]>
+		</change>
+		<change>Thanks to @ivanov007, @@2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.56</version>
+		<change>
+			<![CDATA[
+				<ul>
+					<li>108 icons added.</li>
+					<li>15 icon updated.</li>
+					<li>Small changes in the ShareSheet.theme.</li>
+					<li>Small updates in the Info.plist's.</li>
+				</ul>
+			]]>
+		</change>
+		<change>Thanks to @ivanov007, @@2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.56</version>
+		<change>
+			<![CDATA[
+				<ul>
+					<li>87 icons added.</li>
+					<li>12 icon updated.</li>
+				</ul>
+			]]>
+		</change>
+		<change>Thanks to @ivanov007, @@2Qt2beStr8 and @dreamnet !</change>
+	</changes>
+</changelog>

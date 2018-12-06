@@ -1,0 +1,60 @@
+<package>
+	<id>com.stixzoor.glasklarthd</id>
+	<name>Glasklart</name>
+	<version>5.60</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Anemone</package>
+	</dependencies>
+	<descriptionlist>
+		<description>
+			<![CDATA[
+				<b>Installed to:</b> </ br>/Library/Themes <br /> <br />
+				<b>Apply with Anemone</b>
+			]]>
+		</description>
+		<description>
+			<![CDATA[
+				Glasklart is an out-of-the-way, transparent theme that lets you really showcase your wallpaper. <br />
+				Glasklart is swedish, it means "clear as glass". <br />
+				Now includes 8.600+ high resolution icons which have been graciously crafted by the community.
+			]]>
+		</description>
+		<description>
+			<![CDATA[
+				<b>Need to an icon for your favorite app?</b> <br />
+				Check out Glasklart on Github and help make the theme even more amazing!
+			]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ss.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Latest version from Github: 01 Dec 2018</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Request icons @ Github</name>
+			<url>https://github.com/glasklart/hd/issues</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+		<link>
+			<name>Glasklart Wiki @ Github</name>
+			<url>https://github.com/glasklart/hd/wiki</url>
+			<iconclass>fa fa-wikipedia-w</iconclass>
+		</link>
+		<link>
+			<name>Glasklart @ dreamnet.at</name>
+			<url>https://glasklarthd.dreamnet.at/</url>
+			<iconclass>fa fa-link</iconclass>
+		</link>
+	</links>
+</package>
