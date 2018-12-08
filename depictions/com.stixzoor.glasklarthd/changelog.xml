@@ -1,6 +1,17 @@
 <changelog>
 	<changes>
-		<version>5.60</version>
+		<version>5.59.2</version>
+		<change>
+			<![CDATA[
+				<ul>
+					<li>Latest version from Github: 08 Dec 2018.</li>
+				</ul>
+			]]>
+		</change>
+		<change>Thanks to @2Qt2beStr8, @DerDoktor and @dreamnet !</change>
+	</changes>
+	<changes>
+		<version>5.59.1</version>
 		<change>
 			<![CDATA[
 				<ul>
