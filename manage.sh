@@ -20,6 +20,7 @@ function showOptions() {
 }
 
 function removeFiles() {
+	find "$deb_files_dir" -type f -name '.DS_Store' -delete
 	find "$debs_dir" -type f -name '*.deb' -delete
 	rm -r "$packages" "$zipped_packages"
 }
